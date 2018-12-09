@@ -1,0 +1,13 @@
+#block{
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    background-color: yellow;
+    border: 10px solid black;
+}
+
+.btn{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
